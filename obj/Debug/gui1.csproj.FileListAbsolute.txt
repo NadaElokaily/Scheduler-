@@ -1,0 +1,12 @@
+E:\coding space\c++\gui1\bin\Debug\gui1.exe.config
+E:\coding space\c++\gui1\bin\Debug\gui1.exe
+E:\coding space\c++\gui1\bin\Debug\gui1.pdb
+E:\coding space\c++\gui1\obj\Debug\gui1.csprojResolveAssemblyReference.cache
+E:\coding space\c++\gui1\obj\Debug\gui1.Properties.Resources.resources
+E:\coding space\c++\gui1\obj\Debug\gui1.csproj.GenerateResource.Cache
+E:\coding space\c++\gui1\obj\Debug\gui1.exe
+E:\coding space\c++\gui1\obj\Debug\gui1.pdb
+E:\coding space\c++\gui1\obj\Debug\gui1.PrSch.resources
+E:\coding space\c++\Scheduler Project\bin\Debug\gui1.exe.config
+E:\coding space\c++\Scheduler Project\obj\Debug\gui1.exe
+E:\coding space\c++\Scheduler Project\obj\Debug\gui1.pdb
